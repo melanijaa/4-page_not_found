@@ -4,15 +4,17 @@ body{
 }
 
 main{
-    width:950px;
-    margin-top: 100px;
-    margin-left: 200px;
     display:inline-block;
+    width:900px;
+    margin-top: 100px;
+    margin-left: calc(50% - 450px);
+    
 }
 
 div{
-    width:400px;
+    width: 370px;
     float:right;
+    line-height: 25px;
 }
 
 h1{
@@ -29,7 +31,7 @@ p{
     font-family: 'Times New Roman';
 }
 
-a{
+a {
     display:inline-block;
     border: solid;
     background-color: #2B94E1;
@@ -43,7 +45,12 @@ a{
     font-weight: lighter;
 }
 
-border: 1px solid #2B94E1; padding: 6px; color:#2B94E1;
+.intro {
+    background-color: white;
+    border: 1px solid #2B94E1;
+    padding: 6px;
+    color:#2B94E1;
+}
 
 img{
     width:370px;
