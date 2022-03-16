@@ -12,6 +12,7 @@ Design: https://th.bing.com/th/id/R.fffd66657ba6ca843cbe0b6acb4a9573?rik=9wRzP3n
 ## Project features
 
 -   Basic HTML
+-   Basic CSS
 
 ## Authors
 
